@@ -60,7 +60,8 @@
   - минимальная граница сегмента;
   - максимальная граница сегмента;
   - название сегмента.
- 
 
+ # ГОТОВАЯ РАБОТА:   
+ https://public.tableau.com/app/profile/kozhevnikova.aleksandra/viz/NPS_17269291918100/NPSsummary
 
 

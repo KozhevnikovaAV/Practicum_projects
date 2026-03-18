@@ -1,1 +1,4 @@
-# Practicum_projects
+# DATA ANALYST
+
+## ОПИСАНИЕ:   
+В данном репозитории представлены успешно завершенные мной проекты курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) от Яндекс.Практикум.
